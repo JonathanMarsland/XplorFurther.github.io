@@ -1,7 +1,7 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Modern SharePoint Editing Experience",
+    "Title": "THIS IS A TEST",
     "Image": "images/playlists/share_and_coauthor.png",
     "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
     "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
@@ -9,7 +9,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "Description": "Test to grab stuff from 365training etc",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
