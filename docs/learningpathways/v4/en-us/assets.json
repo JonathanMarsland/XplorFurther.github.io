@@ -20,5 +20,16 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+    {
+    "Id": "1001",
+    "Title": "Add an Email to Outlook on MacOS",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/37cf645f-0f81-4e88-b5e1-bfe4b20b9b00?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
 ]
