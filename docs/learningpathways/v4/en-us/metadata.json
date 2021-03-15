@@ -303,7 +303,16 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
-        }
+        },
+        {
+          "Id": "100000001",
+          "Name": "Visio",
+          "Image": "images/categories/visio.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
       ]
     }
   ],
