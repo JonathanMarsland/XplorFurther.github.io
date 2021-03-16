@@ -22,7 +22,7 @@
     "StatusNote": ""
   },
     {
-     "Id": "",
+     "Id": "75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe",
     "Title": "Select a Template",
     "Description": "",
     "Url": "https://support.office.com/en-us/client/75a50ce3-6f12-4cf6-9b96-5e2026b8a3fe?embed=true&ns=trainingservices&version=1",
@@ -33,10 +33,21 @@
     "StatusNote": ""
   },
       {
-     "Id": "",
+     "Id": "2b9cb32f-98fe-49ed-bd6a-d763e70e667c",
     "Title": "Add and Connect Shapes",
     "Description": "",
     "Url": "https://support.office.com/en-us/client/2b9cb32f-98fe-49ed-bd6a-d763e70e667c?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+        {
+     "Id": "b9a4eb68-7891-4fbf-afd6-59e82274b3ed",
+    "Title": "Manage your Calendars",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/b9a4eb68-7891-4fbf-afd6-59e82274b3ed?embed=true&ns=trainingservices&version=1",
     "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
     "SubjectId": "",
     "Source": "Microsoft",
